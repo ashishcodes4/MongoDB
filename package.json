@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ashishcodes4/MongoDB/issues"
   },
-  "homepage": "https://github.com/ashishcodes4/MongoDB#readme"
+  "homepage": "https://github.com/ashishcodes4/MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^3.0.8",
+    "nodemon": "^1.17.4"
+  }
 }
